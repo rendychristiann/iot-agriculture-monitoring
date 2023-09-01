@@ -1,0 +1,89 @@
+.heading {
+  /* max-width: auto; */
+  width: 70%;
+  height: 150px;
+  margin: 0 auto 0 auto;
+  border-radius: 10px;
+  background-color: #f9bc60; 
+}
+
+.navbar-custom {
+  background-color: #004643;
+}
+
+/* Modify brand and text color */
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: #fffffe;
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
+#title {
+  font-size: 2.2rem;
+  text-align: center;
+  line-height: 1.2;
+  padding: 0.6rem;
+  color: #001e1d;
+}
+
+#description {
+  font-size: 1.1rem;
+  text-align: center;
+  padding: 0.2rem;
+  color: #001e1d;
+}
+
+body{
+  background-color: #004643;
+}
+
+#main {
+  background-color: #e16162;
+  color: #001e1d;
+  border-radius: 10px;
+  min-height: 300px;
+  overflow: hidden;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  max-width: 500px;
+}
+
+.content {
+  background-color: #004643;
+  width: 100%;
+  height: auto;
+  color: #fff;
+  font-size: 1.2vw;
+}
+
+.progress-bar {
+  text-align: center;
+  color: #fff;
+}
+
+.custom-progress {
+  width: calc(
+    100% + 300px
+  ); /* Lebar progress bar dalam persentase + lebar minimum dalam piksel */
+  max-width: 450px; /* Batasan lebar maksimum */
+  margin: 0 auto; /* Untuk membuat progress bar tetap di tengah */
+}
+
+footer {
+  display: block;
+  background-color: #abd1c6;
+  color: #004643;
+  text-align: center;
+  /* margin: 0 auto 0 auto; */
+  padding-bottom: 20px;
+  height: 50px;
+}
+
+.copyright{
+  margin-top: auto;
+  margin-bottom: auto;
+}
