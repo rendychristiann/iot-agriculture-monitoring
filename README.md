@@ -11,4 +11,5 @@ The front-end application for showing sensor data monitoring is stored in the pr
 The styles.css file stores front-end UI appearance modifications. Meanwhile, the progress bar modification mechanism for showing sensor data is built on Bootstrap 4.
 
 Hardware wiring: https://wokwi.com/projects/374069993123368961
-Also check my youtube to see the system showcase video: https://youtu.be/SDTKkXcjpr4?si=p4ffciD007Z1ZI3S
+
+Also, you can check my youtube video to watch the system showcase video: https://youtu.be/SDTKkXcjpr4?si=p4ffciD007Z1ZI3S
